@@ -10,3 +10,4 @@ It got me thinking. How can we be sure of what we know? Almost no information we
 The answer is chains of trust. Almost everything you think you know (more or less anything that is not straight up logic or math, which are unique in that they do not rely on any outside source of information) relies of chains of trust. In the climate example, we trust that the IPCC is made of competent people with good intentions. Because we trust that the people who created IPCC did so in good faith. In turn, those organisations become the anchor of trust for the actual data. We trust that they care about doing things right, and that the employ people for the measurements that do the same. We trust that there is sufficient oversight built in, so even if we cannot verify the numbers at each step, someone can. 
 
 
+Unfinished. FIX
