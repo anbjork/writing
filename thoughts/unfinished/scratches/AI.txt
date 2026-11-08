@@ -1,0 +1,19 @@
+
+AI
+
+Of course it had to be AI. It's impossible to not read, think, and talk about it lately. It's almost impossible to do anything else. Lately met up with uni friend I hadn't met for some time. Years. And probably 6 years since we saw each other semi regularly. We grabbed beers, and at least half the talk was around AI. Might need to institute AI free times soon. Not that it doesn't make sense to talk about AI, it does. Just to make space for some other stuff alongside it. If AI does fizzle out and ends up being the next iteration of Googling, together with some image recognition and accelerated coding, the last few years has easily been the period of most singular societal obsession/hysteria I've experienced. As a society and individuals, we need to be able to track a few more balls at the same time. Then again, if it's the end of the human era, kind of motivated.
+
+AI feels suffocating. I feel like I had gotten to a point where I could make sense of (sufficiently much of) the world, and thus hopefully be able to spot the direction, what to do, how to work towards something that made sense for me. Then AI showed up. It feels like I may have missed the party, the party of the human age, where, even if it turns out exceedingly difficut to affect the world, at least one knew that it was run by a species that to some extent had similar limitations and abilities as me.
+
+Humanity seems dumbstruck in the face of the developments. Probably shouldn't blame it. Or rather, shouldn't be surprised. History shows us that it struggles plenty even with problems of much smaller scope. Orders of magnitude smaller.
+
+Side note; Orders of magnitude. Why is there not a more convenient way to express this concept? There needs to be a single word expression for it. It's needed often, but takes half a sentence to express. In my work notes, when I want to express just the order of magnitude of something, I started using a version of exponential notation for number, but dropping the decimal, so that for example, "the runtime is e2 larger for the method". "Two orders of magnitude". "The runtime is two orders of magnitude larger for the method". Unacceptably long. If not specifying how many orders of magnitude, what remains is e, or plural es. The e comes from exponent. Is there a change we can get "exponent/exponents" introduced as everyday language? "The runtime is two exponents larger for the method". "Swedens population is an exponent smaller than UKs". Not bad! To avoid confusion, specifying up front that base 10 should be implied, for convenience. Luckily, a 10 based counting system seems one of the few things that has standardised globally, so at least we don't have to fight the french or americans about that.
+
+Yet it itches me that 
+
+
+
+
+
+
+
